@@ -23,7 +23,7 @@
 
 ## Разделы документации
 
-* [Начало работы. Описание настроек](https://github.com/Suban05/franchisee-manag-doc.github.io/blob/main/docs/start.md)
-* [Интеграция с 1С-Коннект](https://github.com/Suban05/franchisee-manag-doc.github.io/blob/main/docs/one-c-connect.md)
-* [Договоры](https://github.com/Suban05/franchisee-manag-doc.github.io/blob/main/docs/contracts.md)
-* [Тарифы](https://github.com/Suban05/franchisee-manag-doc.github.io/blob/main/docs/tariffs.md)
+* [Начало работы. Описание настроек](https://suban05.github.io/franchisee-manag-doc.github.io/docs/start.md)
+* [Интеграция с 1С-Коннект](https://suban05.github.io/franchisee-manag-doc.github.io/docs/one-c-connect)
+* [Договоры](https://suban05.github.io/franchisee-manag-doc.github.io/docs/contracts)
+* [Тарифы](https://suban05.github.io/franchisee-manag-doc.github.io/docs/tariffs)
