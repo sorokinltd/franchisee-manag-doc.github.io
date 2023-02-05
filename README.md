@@ -23,7 +23,7 @@
 
 ## Разделы документации
 
-* [Начало работы. Описание настроек](https://suban05.github.io/franchisee-manag-doc.github.io/docs/start.md)
+* [Начало работы. Описание настроек](https://suban05.github.io/franchisee-manag-doc.github.io/docs/start)
 * [Интеграция с 1С-Коннект](https://suban05.github.io/franchisee-manag-doc.github.io/docs/one-c-connect)
 * [Договоры](https://suban05.github.io/franchisee-manag-doc.github.io/docs/contracts)
 * [Тарифы](https://suban05.github.io/franchisee-manag-doc.github.io/docs/tariffs)
