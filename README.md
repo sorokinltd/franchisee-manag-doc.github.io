@@ -27,5 +27,5 @@
 * [Интеграция с 1С-Коннект](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/one-c-connect)
 * [Договоры](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/contracts)
 * [Тарифы](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/tariffs)
-* [Виды тарифа](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/types_tarif)
+* [Виды тарифа](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/types-tarif)
 
