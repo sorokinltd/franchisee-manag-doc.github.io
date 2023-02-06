@@ -25,8 +25,11 @@
 ## Разделы документации
 
 * [Настройки](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/start)
+* Документы
+    * [Заявки на ИТС](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/requests_for_its)
 * Справочники    
     * [Договоры](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/contracts)
+    * [Категории договоров](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/types-contract)
     * [Тарифы](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/tariffs)
     * [Виды тарифа](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/types-tarif)
     * [Статусы объектов](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/statuses)
@@ -37,4 +40,7 @@
     * [Импорт 1С-Коннект](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/import-from-connect)
     * [Выгрузка задолженности](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/unloading-arreas-to-connect)
     * [Статус контрагента](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/status-customer)
+* Прочее
+    * [Авторизация в личном кабинете партнера 1С](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/one-c-partner)
+    * [Регистрационные номера программных продуктов](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/regnum)
 
