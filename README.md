@@ -24,10 +24,16 @@
 
 ## Разделы документации
 
-* [Начало работы. Описание настроек](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/start)
-* [Интеграция с 1С-Коннект](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/one-c-connect)
-* [Договоры](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/contracts)
-* [Тарифы](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/tariffs)
-* [Виды тарифа](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/types-tarif)
-* [Отчет по тарифам](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/tarif-report)
+* [Настройки](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/start)
+* Справочники    
+    * [Договоры](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/contracts)
+    * [Тарифы](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/tariffs)
+    * [Виды тарифа](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/types-tarif)
+    * [Статусы объектов](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/statuses)
+* Отчеты
+    * [Отчет по тарифам](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/tarif-report)
+* [1С-Коннект](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/one-c-connect)
+    * [Импорт 1С-Коннект](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/import-from-connect)
+    * [Выгрузка задолженности](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/unloading-arreas-to-connect)
+    * [Статус контрагента](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/status-customer)
 
