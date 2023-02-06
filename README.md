@@ -31,7 +31,8 @@
     * [Виды тарифа](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/types-tarif)
     * [Статусы объектов](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/statuses)
 * Отчеты
-    * [Отчет по тарифам](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/tarif-report)
+    * [Отчет по тарифам](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/tarif-report.html)
+    * [Учет рабочего времени](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/work-time)
 * [1С-Коннект](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/one-c-connect)
     * [Импорт 1С-Коннект](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/import-from-connect)
     * [Выгрузка задолженности](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/unloading-arreas-to-connect)
