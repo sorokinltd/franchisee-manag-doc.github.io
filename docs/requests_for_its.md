@@ -11,7 +11,7 @@
 ## Предварительные настройки
 
 * В вашей организации должен быть заполнен Код партнера
-[Код партнера](https://sorokinltd.github.io/franchisee-manag-doc.github.io/img/partner-code)
+![Код партнера](https://sorokinltd.github.io/franchisee-manag-doc.github.io/img/partner-code.png)
 
 ## Как создать документ
 
