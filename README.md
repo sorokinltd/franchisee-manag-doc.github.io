@@ -25,6 +25,10 @@
 * Статусы расходных накладных
 * Статусы контрагентов
 
+## Демонстрации
+
+[Автоматизация 1С:Франчайзи на 1С:УНФ и интеграция с 1С-Коннект](https://www.youtube.com/watch?v=nU22L20UWm0)
+
 ## Разделы документации
 
 * [Настройки](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/start)
