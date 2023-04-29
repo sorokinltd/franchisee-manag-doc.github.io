@@ -42,14 +42,14 @@
     * [Статусы объектов](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/statuses)
 * Отчеты
     * [Отчет по тарифам](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/tarif-report.html)
-    * [Расшифровка показателя "Cреднемесячный объем продаж сервисов"](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/sales-volume-indicator-report)    
+    * [Показатели и нормативы 1С:ИТС](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/sales-volume-indicator-report)    
     * [Учет рабочего времени](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/work-time)
     * [Эффективность работы](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/effectiveness)
     * [Цены тарифов](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/tarif-prices)
 * [1С-Коннект](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/one-c-connect)
-    * [Импорт 1С-Коннект](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/import-from-connect)
+    * [Перенос работ в Учет времени](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/import-from-connect)
     * [Выгрузка задолженности](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/unloading-arreas-to-connect)
-    * [Статус контрагента](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/status-customer)
+    * [Изменение статуса контрагента](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/status-customer)
 * Прочее
     * [Авторизация в личном кабинете партнера 1С](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/one-c-partner)
     * [Регистрационные номера программных продуктов](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/regnum)
