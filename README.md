@@ -54,3 +54,7 @@
     * [Авторизация в личном кабинете партнера 1С](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/one-c-partner)
     * [Регистрационные номера программных продуктов](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/regnum)
 
+## Контакты
+
+Email: sevan@1cmagnitka.ru
+Telegram: [@S_Ev_An](https://t.me/S_Ev_An)
