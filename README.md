@@ -9,8 +9,6 @@
 * Конфигурация 1С:Управление нашей фирмой 3.0.4.
 * Использование 1С-Коннект в качестве Service Desk.
 
-Актуальный релиз можно найти [здесь](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/releases)
-
 ## Основные возможности:
 
 * Интеграция 1С:УНФ и 1С-Коннект:
@@ -34,7 +32,7 @@
 * [Настройки](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/start)
 * Документы
     * [Заявки на ИТС](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/requests_for_its)
-* Справочники    
+* Справочники
     * [Договоры](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/contracts)
     * [Категории договоров](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/types-contract)
     * [Тарифы](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/tariffs)
@@ -42,7 +40,7 @@
     * [Статусы объектов](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/statuses)
 * Отчеты
     * [Отчет по тарифам](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/tarif-report.html)
-    * [Показатели и нормативы 1С:ИТС](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/sales-volume-indicator-report)    
+    * [Показатели и нормативы 1С:ИТС](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/sales-volume-indicator-report)
     * [Учет рабочего времени](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/work-time)
     * [Эффективность работы](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/effectiveness)
     * [Цены тарифов](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/tarif-prices)
