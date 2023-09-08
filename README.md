@@ -9,7 +9,7 @@
 * Конфигурация 1С:Управление нашей фирмой 3.0.4.
 * Использование 1С-Коннект в качестве Service Desk.
 
-## Основные возможности:
+## Основные возможности
 
 * Интеграция 1С:УНФ и 1С-Коннект:
     * Сбор информации о выполненных работах из 1С-Коннект
@@ -29,7 +29,8 @@
 
 ## Разделы документации
 
-* [Настройки](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/start)
+* [Регистрация программы](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/program-registration)
+* [Настройки](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/settings)
 * Документы
     * [Заявки на ИТС](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/requests_for_its)
 * Справочники
