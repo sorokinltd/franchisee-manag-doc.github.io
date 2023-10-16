@@ -4,7 +4,7 @@
 
 Дата выхода: 29.04.2023
 
-[Скачать](https://sorokinltd.github.io/franchisee-manag-doc.github.io/releases/СК_УФФ_1_1_7.cfe)
+[Скачать](https://sorokinltd.github.io/franchisee-manag-doc.github.io/releases/СК_УНФФ_1_1_7.cfe)
 
 ### Описание изменений
 
@@ -29,4 +29,4 @@
 
 Дата выхода: 07.02.2023
 
-[Скачать](https://sorokinltd.github.io/franchisee-manag-doc.github.io/releases/СК_УФФ_1_1_5.cfe)
+[Скачать](https://sorokinltd.github.io/franchisee-manag-doc.github.io/releases/СК_УНФФ_1_1_5.cfe)
