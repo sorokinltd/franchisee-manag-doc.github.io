@@ -6,7 +6,7 @@
 Минимальные требования:
 
 * Платформа 1С:Предприятие 8.3.21.
-* Конфигурация 1С:Управление нашей фирмой 3.0.5.
+* Конфигурация 1С:Управление нашей фирмой 3.0.6.
 * Использование 1С-Коннект в качестве Service Desk.
 
 ## Основные возможности
@@ -55,6 +55,7 @@
 * Прочее
     * [Авторизация в личном кабинете партнера 1С](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/one-c-partner)
     * [Регистрационные номера программных продуктов](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/regnum)
+    * [Продление договора из отчета по тарифам](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/contract-upgrade)
 
 ## Контакты
 
