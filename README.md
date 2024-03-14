@@ -32,30 +32,30 @@
 
 ## Разделы документации
 
-* [Регистрация программы](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/program-registration)
-* [Настройки](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/settings)
+* [Регистрация программы](/docs/program-registration.md)
+* [Настройки](/docs/settings.md)
 * Документы
-    * [Заявки на ИТС](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/requests_for_its)
+    * [Заявки на ИТС](/docs/requests_for_its.md)
 * Справочники
-    * [Договоры](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/contracts)
-    * [Категории договоров](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/types-contract)
-    * [Тарифы](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/tariffs)
-    * [Виды тарифа](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/types-tarif)
-    * [Статусы объектов](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/statuses)
+    * [Договоры](/docs/contracts.md)
+    * [Категории договоров](/docs/types-contract.md)
+    * [Тарифы](/docs/tariffs.md)
+    * [Виды тарифа](/docs/types-tarif.md)
+    * [Статусы объектов](/docs/statuses.md)
 * Отчеты
-    * [Отчет по тарифам](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/tarif-report.html)
-    * [Показатели и нормативы 1С:ИТС](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/sales-volume-indicator-report)
-    * [Учет рабочего времени](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/work-time)
-    * [Эффективность работы](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/effectiveness)
-    * [Цены тарифов](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/tarif-prices)
-* [1С-Коннект](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/one-c-connect)
-    * [Перенос работ в Учет времени](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/import-from-connect)
-    * [Выгрузка задолженности](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/unloading-arreas-to-connect)
-    * [Изменение статуса контрагента](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/status-customer)
+    * [Отчет по тарифам](/docs/tarif-report.html)
+    * [Показатели и нормативы 1С:ИТС](/docs/sales-volume-indicator-report.md)
+    * [Учет рабочего времени](/docs/work-time.md)
+    * [Эффективность работы](/docs/effectiveness.md)
+    * [Цены тарифов](/docs/tarif-prices.md)
+* [1С-Коннект](/docs/one-c-connect.md)
+    * [Перенос работ в Учет времени](/docs/import-from-connect.md)
+    * [Выгрузка задолженности](/docs/unloading-arreas-to-connect.md)
+    * [Изменение статуса контрагента](/docs/status-customer.md)
 * Прочее
-    * [Авторизация в личном кабинете партнера 1С](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/one-c-partner)
-    * [Регистрационные номера программных продуктов](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/regnum)
-    * [Продление договора из отчета по тарифам](https://sorokinltd.github.io/franchisee-manag-doc.github.io/docs/contract-upgrade)
+    * [Авторизация в личном кабинете партнера 1С](/docs/one-c-partner.md)
+    * [Регистрационные номера программных продуктов](/docs/regnum.md)
+    * [Продление договора из отчета по тарифам](/docs/contract-upgrade.md)
 
 ## Контакты
 
