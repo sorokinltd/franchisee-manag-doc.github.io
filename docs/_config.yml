@@ -1,0 +1,16 @@
+title: УННФ
+email: sevan@1cmagnitka.ru
+
+theme: just-the-docs
+plugins:
+  - jekyll-feed
+
+search_enabled: false
+
+include:
+  - _pages
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
