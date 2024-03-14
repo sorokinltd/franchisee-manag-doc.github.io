@@ -38,30 +38,30 @@ layout: default
 
 ## Разделы документации
 
-* [Регистрация программы](/program-registration/)
-* [Настройки](/settings/)
+* [Регистрация программы]({{ site.baseurl }}/program-registration/)
+* [Настройки]({{ site.baseurl }}/settings/)
 * Документы
-    * [Заявки на ИТС](/requests_for_its/)
+    * [Заявки на ИТС]({{ site.baseurl }}/requests_for_its/)
 * Справочники
-    * [Договоры](/contracts/)
-    * [Категории договоров](/types-contract/)
-    * [Тарифы](/tariffs/)
-    * [Виды тарифа](/types-tarif/)
-    * [Статусы объектов](/statuses/)
+    * [Договоры]({{ site.baseurl }}/contracts/)
+    * [Категории договоров]({{ site.baseurl }}/types-contract/)
+    * [Тарифы]({{ site.baseurl }}/tariffs/)
+    * [Виды тарифа]({{ site.baseurl }}/types-tarif/)
+    * [Статусы объектов]({{ site.baseurl }}/statuses/)
 * Отчеты
-    * [Отчет по тарифам](/tarif-report/)
-    * [Показатели и нормативы 1С:ИТС](/sales-volume-indicator-report/)
-    * [Учет рабочего времени](/work-time/)
-    * [Эффективность работы](/effectiveness/)
-    * [Цены тарифов](/tarif-prices/)
-* [1С-Коннект](/one-c-connect/)
-    * [Перенос работ в Учет времени](/import-from-connect/)
-    * [Выгрузка задолженности](/unloading-arreas-to-connect/)
-    * [Изменение статуса контрагента](/status-customer/)
+    * [Отчет по тарифам]({{ site.baseurl }}/tarif-report/)
+    * [Показатели и нормативы 1С:ИТС]({{ site.baseurl }}/sales-volume-indicator-report/)
+    * [Учет рабочего времени]({{ site.baseurl }}/work-time/)
+    * [Эффективность работы]({{ site.baseurl }}/effectiveness/)
+    * [Цены тарифов]({{ site.baseurl }}/tarif-prices/)
+* [1С-Коннект]({{ site.baseurl }}/one-c-connect/)
+    * [Перенос работ в Учет времени]({{ site.baseurl }}/import-from-connect/)
+    * [Выгрузка задолженности]({{ site.baseurl }}/unloading-arreas-to-connect/)
+    * [Изменение статуса контрагента]({{ site.baseurl }}/status-customer/)
 * Прочее
-    * [Авторизация в личном кабинете партнера 1С](/one-c-partner/)
-    * [Регистрационные номера программных продуктов](/regnum/)
-    * [Продление договора из отчета по тарифам](/contract-upgrade/)
+    * [Авторизация в личном кабинете партнера 1С]({{ site.baseurl }}/one-c-partner/)
+    * [Регистрационные номера программных продуктов]({{ site.baseurl }}/regnum/)
+    * [Продление договора из отчета по тарифам]({{ site.baseurl }}/contract-upgrade/)
 
 ## Контакты
 

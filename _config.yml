@@ -1,5 +1,6 @@
 title: УННФ
 email: sevan@1cmagnitka.ru
+baseurl: "/franchisee-manag-doc.github.io"
 
 theme: just-the-docs
 plugins:
