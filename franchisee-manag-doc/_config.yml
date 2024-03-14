@@ -28,7 +28,7 @@ theme: just-the-docs
 plugins:
   - jekyll-feed
 
-search_enabled: true
+search_enabled: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
