@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Учет рабочего времени
+parent: Отчеты
+nav_order: 3
+permalink: /work-time/
 ---
 
 # Учет рабочего времени

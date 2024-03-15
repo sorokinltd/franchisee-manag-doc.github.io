@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Выгрузка задолженности в 1С-Коннект
+parent: 1С-Коннект
+nav_order: 3
+permalink: /unloading-arreas-to-connect/
 ---
 
 # Выгрузка задолженности в 1С-Коннект

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Заявки на ИТС
+parent: Документы
+permalink: /requests_for_its/
 ---
 
 # Заявки на ИТС

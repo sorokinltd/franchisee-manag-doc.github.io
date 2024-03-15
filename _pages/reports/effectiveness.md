@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Эффективность работы
+parent: Отчеты
+nav_order: 4
+permalink: /effectiveness/
 ---
 
 # Эффективность работы

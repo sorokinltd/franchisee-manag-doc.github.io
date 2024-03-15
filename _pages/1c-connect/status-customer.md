@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Изменение статуса контрагента
+parent: 1С-Коннект
+nav_order: 4
+permalink: /status-customer/
 ---
 
 # Изменение статуса контрагента

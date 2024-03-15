@@ -2,6 +2,7 @@
 layout: default
 title: Настройки
 permalink: /settings/
+nav_order: 2
 ---
 
 # Настройки

@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Отчет по тарифам
+parent: Отчеты
+nav_order: 1
+permalink: /tarif-report/
 ---
 
 # Отчет по тарифам
