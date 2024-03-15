@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Цены тарифов
+parent: Отчеты
+nav_order: 5
+permalink: /tarif-prices/
 ---
 
 # Цены тарифов

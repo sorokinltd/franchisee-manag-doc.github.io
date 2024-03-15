@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Настройка интеграции с 1С-Коннект
+parent: 1С-Коннект
+nav_order: 1
+permalink: /one-c-connect/
 ---
 
 # Настройка интеграции с 1С-Коннект

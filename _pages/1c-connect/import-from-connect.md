@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Перенос работ в Учет времени из 1С-Коннект
+parent: 1С-Коннект
+nav_order: 2
+permalink: /import-from-connect/
 ---
 
 # Перенос работ в Учет времени из 1С-Коннект

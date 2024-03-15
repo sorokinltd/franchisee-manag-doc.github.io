@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Авторизация на портале 1С
+parent: Прочее
+nav_order: 1
+permalink: /one-c-partner/
 ---
 
 # Авторизация на портале 1С

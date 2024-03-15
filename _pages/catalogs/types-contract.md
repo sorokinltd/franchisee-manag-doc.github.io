@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Категории договоров
+parent: Справочники
+permalink: /types-contract/
 ---
 
 # Категории договоров
