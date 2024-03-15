@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Договоры
+parent: Справочники
+permalink: /contracts/
 ---
 
 # Договоры

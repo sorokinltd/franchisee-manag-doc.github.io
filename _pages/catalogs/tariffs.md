@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Тарифы
+parent: Справочники
+permalink: /tariffs/
 ---
 
 # Тарифы

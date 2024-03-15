@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Виды тарифа
+parent: Справочники
+permalink: /types-tarif/
 ---
 
 # Виды тарифа

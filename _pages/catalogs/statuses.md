@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Статусы объектов
+parent: Справочники
+permalink: /statuses/
 ---
 
 # Статусы объектов
