@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Заявки на ИТС
+grand_parent: Документация
 parent: Документы
 permalink: /requests_for_its/
 ---
 
-# Заявки на ИТС
+# {{ page.title }}
 
 ## Назначение
 

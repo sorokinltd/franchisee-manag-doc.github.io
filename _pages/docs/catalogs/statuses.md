@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Статусы объектов
+grand_parent: Документация
 parent: Справочники
 permalink: /statuses/
 ---
 
-# Статусы объектов
+# {{ page.title }}
 
 ## Доступные объекты
 

@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Отчет по тарифам
+grand_parent: Документация
 parent: Отчеты
 nav_order: 1
 permalink: /tarif-report/
 ---
 
-# Отчет по тарифам
+# {{ page.title }}
 
 ## Назначение
 

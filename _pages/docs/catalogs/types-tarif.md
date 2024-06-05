@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Виды тарифа
+grand_parent: Документация
 parent: Справочники
 permalink: /types-tarif/
 ---
 
-# Виды тарифа
+# {{ page.title }}
 
 ## Назначение
 

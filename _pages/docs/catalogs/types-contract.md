@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Категории договоров
+grand_parent: Документация
 parent: Справочники
 permalink: /types-contract/
 ---
 
-# Категории договоров
+# {{ page.title }}
 
 ## Изменения
 

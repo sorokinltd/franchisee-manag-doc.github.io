@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Учет рабочего времени
+grand_parent: Документация
 parent: Отчеты
 nav_order: 3
 permalink: /work-time/
 ---
 
-# Учет рабочего времени
+# {{ page.title }}
 
 ## Назначение
 

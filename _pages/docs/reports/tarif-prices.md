@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Цены тарифов
+grand_parent: Документация
 parent: Отчеты
 nav_order: 5
 permalink: /tarif-prices/
 ---
 
-# Цены тарифов
+# {{ page.title }}
 
 ## Назначение
 
