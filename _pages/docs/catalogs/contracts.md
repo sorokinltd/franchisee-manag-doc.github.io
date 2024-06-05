@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Договоры
+grand_parent: Документация
 parent: Справочники
 permalink: /contracts/
 ---
 
-# Договоры
+# {{ page.title }}
 
 ## Изменения
 

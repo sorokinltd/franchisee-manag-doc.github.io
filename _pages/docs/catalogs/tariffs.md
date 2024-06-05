@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Тарифы
+grand_parent: Документация
 parent: Справочники
 permalink: /tariffs/
 ---
 
-# Тарифы
+# {{ page.title }}
 
 ## Назначение
 

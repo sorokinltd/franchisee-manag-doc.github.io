@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Регистрационные номера программных продуктов
+grand_parent: Документация
 parent: Прочее
 nav_order: 2
 permalink: /regnum/
 ---
 
-# Регистрационные номера программных продуктов
+# {{ page.title }}
 
 ## Как создать
 

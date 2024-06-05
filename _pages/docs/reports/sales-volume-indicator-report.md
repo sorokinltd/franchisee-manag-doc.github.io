@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Показатели и нормативы 1С:ИТС
+grand_parent: Документация
 parent: Отчеты
 nav_order: 2
 permalink: /sales-volume-indicator-report/
 ---
 
-# Показатели и нормативы 1С:ИТС
+# {{ page.title }}
 
 ## Назначение
 

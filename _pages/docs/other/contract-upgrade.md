@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Продление договора из отчета по тарифам
+grand_parent: Документация
 parent: Прочее
 nav_order: 3
 permalink: /contract-upgrade/
 ---
 
-# Продление договора из отчета по тарифам
+# {{ page.title }}
 
 Для того, чтобы создать договор продления нужно:
 

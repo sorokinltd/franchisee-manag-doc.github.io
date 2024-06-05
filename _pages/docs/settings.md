@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Настройки
+parent: Документация
 permalink: /settings/
 nav_order: 2
 ---
 
-# Настройки
+# {{ page.title }}
 
 **Путь к настройкам:** УНФФ С&К -> Сервис -> Настройки подсистемы.
 

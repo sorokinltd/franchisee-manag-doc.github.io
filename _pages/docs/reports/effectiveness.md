@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Эффективность работы
+grand_parent: Документация
 parent: Отчеты
 nav_order: 4
 permalink: /effectiveness/
 ---
 
-# Эффективность работы
+# {{ page.title }}
 
 ## Назначение
 
