@@ -1,0 +1,35 @@
+@media (min-width: 768px) {
+    .table-wrapper {
+        width: 100%;
+        max-width: 100%;
+        overflow-x: auto;
+    }
+
+    table {
+        width: 100%;
+        max-width: 100%;
+        border-collapse: collapse;
+        table-layout: fixed;
+    }
+
+    th, td {
+        padding: 12px;
+        text-align: left;
+        word-wrap: break-word;
+    }
+
+    th {
+        background-color: #f2f2f2;
+        font-weight: bold;
+    }
+
+    td {
+        background-color: #ffffff;
+    }
+
+    .content, .main-content {
+        width: 100%;
+        max-width: 100%;
+    }
+}
+    
