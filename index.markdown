@@ -1,9 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/themes/#overriding-theme-defaults
-
 layout: default
 ---
+
 # Документация для Управление небольшой фирмой франчайзи для 1С:УНФ 3.0
 
 Модуль позволяет автоматизировать учет небольшой фирмы франчайзи 1С.
