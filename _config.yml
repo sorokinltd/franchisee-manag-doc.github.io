@@ -15,3 +15,16 @@ collections:
   pages:
     output: true
     permalink: /:path/
+
+just_the_docs:
+  aux_links:
+  - title: "Custom CSS"
+    url: "assets/css/custom.css"
+
+defaults:
+  - scope:
+      path: ""
+      type: "assets"
+    values:
+      assets:
+        css: "assets/css/custom.css"
