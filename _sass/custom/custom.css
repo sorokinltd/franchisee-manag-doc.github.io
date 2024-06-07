@@ -32,4 +32,17 @@
         max-width: 100%;
     }
 }
+
+input[type="number"],
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
     
