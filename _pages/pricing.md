@@ -5,7 +5,7 @@ title: Ценообразование
 permalink: /pricing/
 ---
 
-# {{ page.title }}
+# Прайс для магазина расширений 1С:Фреш
 
 <table>
   <thead>
@@ -95,7 +95,7 @@ permalink: /pricing/
         if (itcCount < 400) {
             itcCount = 400;
         }
-        newPrice = (itcCount / 400 * korpRatio - baseRatio).toFixed(2);      
+        newPrice = (itcCount / 400 * korpRatio).toFixed(2);      
         priceCell.textContent = new Intl.NumberFormat('ru-RU', { minimumFractionDigits: 2, maximumFractionDigits: 2 }).format(newPrice);
     }
   }
