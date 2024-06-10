@@ -2,16 +2,15 @@
 layout: default
 ---
 
-# Документация для Управление небольшой фирмой франчайзи для 1С:УНФ 3.0
+# Управление небольшой фирмой франчайзи для 1С:УНФ 3.0
 
 Модуль позволяет автоматизировать учет небольшой фирмы франчайзи 1С.
 Поставляется в виде расширения конфигурации.
 
-Минимальные требования:
-
-* Платформа 1С:Предприятие 8.3.21.
-* Конфигурация 1С:Управление нашей фирмой 3.0.7.
-* Использование 1С-Коннект в качестве Service Desk.
+<div class="video-container">
+    <iframe src="https://www.youtube.com/watch?v=nU22L20UWm0" frameborder="0" allowfullscreen>
+    </iframe>
+</div>
 
 ## Основные возможности
 
@@ -29,40 +28,3 @@ layout: default
     * выгрузка задолженности клиентов в 1С-Коннект для информирования клиентов и специалистов компании;
     * синхронизация параметров сопровождения 1С-Коннект с каталогом типовых услуг в 1С:УНФ;
     * рассылки информационных сообщений в линии поддержки и группы 1С-Коннект, например, о запрете/разрешении работы с клиентом.
-
-## Демонстрации
-
-[Автоматизация 1С:Франчайзи на 1С:УНФ и интеграция с 1С-Коннект](https://www.youtube.com/watch?v=nU22L20UWm0)
-
-## Разделы документации
-
-* [Регистрация программы]({{ site.baseurl }}/program-registration/)
-* [Настройки]({{ site.baseurl }}/settings/)
-* Документы
-    * [Заявки на ИТС]({{ site.baseurl }}/requests_for_its/)
-* Справочники
-    * [Договоры]({{ site.baseurl }}/contracts/)
-    * [Категории договоров]({{ site.baseurl }}/types-contract/)
-    * [Тарифы]({{ site.baseurl }}/tariffs/)
-    * [Виды тарифа]({{ site.baseurl }}/types-tarif/)
-    * [Статусы объектов]({{ site.baseurl }}/statuses/)
-* Отчеты
-    * [Отчет по тарифам]({{ site.baseurl }}/tarif-report/)
-    * [Показатели и нормативы 1С:ИТС]({{ site.baseurl }}/sales-volume-indicator-report/)
-    * [Учет рабочего времени]({{ site.baseurl }}/work-time/)
-    * [Эффективность работы]({{ site.baseurl }}/effectiveness/)
-    * [Цены тарифов]({{ site.baseurl }}/tarif-prices/)
-* [1С-Коннект]({{ site.baseurl }}/one-c-connect/)
-    * [Перенос работ в Учет времени]({{ site.baseurl }}/import-from-connect/)
-    * [Выгрузка задолженности]({{ site.baseurl }}/unloading-arreas-to-connect/)
-    * [Изменение статуса контрагента]({{ site.baseurl }}/status-customer/)
-* Прочее
-    * [Авторизация в личном кабинете партнера 1С]({{ site.baseurl }}/one-c-partner/)
-    * [Регистрационные номера программных продуктов]({{ site.baseurl }}/regnum/)
-    * [Продление договора из отчета по тарифам]({{ site.baseurl }}/contract-upgrade/)
-
-## Контакты
-
-Email: sevan@1cmagnitka.ru
-
-Telegram: [@S_Ev_An](https://t.me/S_Ev_An)
