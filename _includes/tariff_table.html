@@ -1,0 +1,45 @@
+<table>
+    <thead>
+      <tr>
+        <th>Тариф на 
+          <select id="tariffType"  onchange="calculatePricesByPriceType(this, isFresh)">
+            <option value="fullYear">12 мес.</option>
+            <option value="halfYear">6 мес.</option>
+          </select>      
+        </th>
+        <th>Кол-во ИТС</th>
+        <th>Стоимость, Руб.</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>До 100 ИТС</td>
+        <td></td>
+        <td id="priceIts100"></td>
+      </tr>
+      <tr>
+        <td>До 200 ИТС</td>
+        <td></td>
+        <td id="priceIts200"></td>
+      </tr>
+      <tr>
+        <td>До 300 ИТС</td>
+        <td></td>
+        <td id="priceIts300"></td>
+      </tr>
+      <tr>
+        <td>До 400 ИТС</td>
+        <td></td>
+        <td id="priceItsUpTo400"></td>
+      </tr>
+      <tr>
+        <td>От 400 ИТС</td>
+        <td><input id="countFrom400" type="number" value="400" oninput="calculatePriceByCount(this, isFresh)" min="400"></td>
+        <td id="priceItsFrom400"></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <script>
+    var isFresh = {{ include.isFresh }};
+  </script>  

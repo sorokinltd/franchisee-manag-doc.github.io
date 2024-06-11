@@ -60,3 +60,20 @@ textarea {
     height: 100%;
     border: 0;
 }
+
+select {
+    padding: 6px; 
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    appearance: none;
+    background-color: white;
+    cursor: pointer;
+    height: 30px;
+  }
+  
+select option {
+    padding: 6px;
+    font-size: 14px;    
+    height: 24px;
+}
+  
