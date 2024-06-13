@@ -6,10 +6,6 @@ export class HalfYearCalculator extends TariffCalculator{
         this.baseRatio = 7800;
     }
 
-    defaultPricesOfTariffs() {
-        return defaultPricesOfTariffs(this)
-    }
-
     profRatio() { 
         return 23383;
     }
