@@ -8,8 +8,9 @@ layout: default
 Поставляется в виде расширения конфигурации.
 
 <div class="video-container">
-    <iframe src="https://www.youtube.com/embed/nU22L20UWm0?si=stmVxv-iZT1G3NDm" frameborder="0" allowfullscreen>
-    </iframe>
+    <video controls>
+        <source src="https://sorokinltd.ru/files/sem202309.mp4" type="video/mp4">
+    </video>
 </div>
 
 ## Основные возможности
