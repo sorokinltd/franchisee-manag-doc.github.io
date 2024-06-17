@@ -2,7 +2,10 @@ import { FullYearCalculator } from "./calculable/fullYearCalculator.js";
 import { HalfYearCalculator } from "./calculable/halfYearCalculator.js";
 
 document.addEventListener('DOMContentLoaded', () => {
-    calculatePricesByPriceType(document.getElementById("tariffType"), isFresh);
+    const tariffType = document.getElementById("tariffType");
+    if (tariffType) {
+        calculatePricesByPriceType(tariffType, isFresh);
+    }
 })
 
 function calculatePriceByCount(inputCount, isFresh) {
@@ -51,3 +54,4 @@ function numberFormat(price) {
 window.calculatePriceByCount = calculatePriceByCount;
 window.calculatePricesByPriceType = calculatePricesByPriceType;
 window.getContractsCount = getContractsCount;
+let isFresh = false;
