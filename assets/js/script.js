@@ -54,4 +54,3 @@ function numberFormat(price) {
 window.calculatePriceByCount = calculatePriceByCount;
 window.calculatePricesByPriceType = calculatePricesByPriceType;
 window.getContractsCount = getContractsCount;
-let isFresh = false;
