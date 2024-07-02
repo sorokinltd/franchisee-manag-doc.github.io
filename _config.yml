@@ -28,3 +28,7 @@ defaults:
     values:
       assets:
         css: "assets/css/custom.css"
+
+callouts:
+  feedback:
+    color: blue
