@@ -9,7 +9,7 @@ layout: default
 
 <div class="video-container">
     <video controls>
-        <source src="https://sorokinltd.ru/files/sem202309.mp4" type="video/mp4">
+        <source src="https://sorokinltd.ru/images/files/sem202309.mp4" type="video/mp4">
     </video>
 </div>
 
