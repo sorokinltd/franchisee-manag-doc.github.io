@@ -1,0 +1,183 @@
+<nav class="py-5 border-b-default border-solid border-gray-200 z-10 w-full bg-inherit" id="topnav">
+    <div class="mx-auto max-w-7xl lg:px-8">
+      <div class="w-full flex flex-col lg:flex-row">
+        <div class="flex justify-between lg:hidden px-4">
+          <a href="{{ site.baseurl }}/" class="flex items-center">
+            <span class="text-2xl font-bold">УНФФ</span>
+          </a>
+          <button id="menu-toggle" type="button" class="inline-flex items-center p-2 ml-3 text-sm text-gray-500 rounded-lg lg:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200">
+            <span class="sr-only">Открыть главное меню</span>
+            <svg class="w-6 h-6" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+              <path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"></path>
+            </svg>
+          </button>
+        </div>
+        <div id="navbar" class="hidden w-full lg:flex justify-between max-lg:bg-white py-5 max-lg:mt-1 max-lg:px-4 max-lg:shadow-lg max-lg:shadow-gray-200 max-lg:h-auto max-lg:overflow-auto transition-all duration-500">
+          <a href="{{ site.baseurl }}/" class="hidden lg:flex">
+            <span class="text-2xl font-bold">УНФФ</span>
+          </a>
+          <ul class="flex lg:items-center lg:flex-row flex-col lg:justify-end gap-4">
+            <li><a href="{{ site.baseurl }}/_pages/docs" class="text-gray-500 text-sm font-medium hover:text-prime-blue-700 transition-all duration-500 mb-2 lg:mr-6 lg:text-base">Документация</a></li>
+            <li><a href="{{ site.baseurl }}/pricing" class="text-gray-500 text-sm font-medium hover:text-prime-blue-700 transition-all duration-500 mb-2 lg:mr-6 lg:text-base">Ценообразование</a></li>
+            <li><a href="{{ site.baseurl }}/_pages/contacts" class="text-gray-500 text-sm font-medium hover:text-prime-blue-700 transition-all duration-500 mb-2 lg:mr-6 lg:text-base">Контакты</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </nav>
+  
+<section
+class="bg-center bg-cover"
+>
+<div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 relative text-center">
+  <h1
+    class="mx-auto text-center font-manrope font-bold text-4xl text-gray-900 mb-5 md:text-5xl leading-[50px]"
+  >
+    Наведите порядок с помощью <span class="text-[#d63d26]">Управление небольшой фирмой франчайзи</span>
+  </h1>
+  <p
+    class="mx-auto text-center text-base font-normal leading-7 text-gray-500 mb-9"
+  >
+    Мы сделали специальный продукт для небольших фирм Франчайзи, который поможет навести порядок в бизнес-процессах и сохранить нервы руководителю
+  </p>
+
+  <div class="flex justify-center">
+    <div class="video-container flex justify-center">
+        <video class="rounded-3xl h-auto object-cover" controls>
+            <source src="https://sorokinltd.ru/images/files/sem202309.mp4" type="video/mp4">
+        </video>
+    </div>
+  </div>
+</div>
+</section>
+
+<section class="p-12">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div class="mb-14 text-center">
+            <h2 class="text-4xl text-center font-bold text-gray-900 py-5">
+                Основные возможности
+            </h2>
+            <p class="text-lg font-normal text-gray-500 max-w-md md:max-w-2xl mx-auto">
+                
+            </p>
+        </div>
+        <div
+            class="flex justify-center items-start gap-x-5 gap-y-8 lg:gap-y-0 flex-wrap md:flex-wrap lg:flex-nowrap lg:flex-row lg:justify-between lg:gap-x-8">
+            
+            {% for feature in site.features %}
+                <div class="relative w-full text-center max-md:max-w-sm max-md:mx-auto group md:w-2/5 lg:w-1/4">
+                    <div class="bg-[#{{ feature.color }}] rounded-lg flex justify-center items-center mb-5 w-20 h-20 mx-auto transition-all duration-500 group-hover:bg-[#{{ feature.color }}]">
+                        <img class="stroke-[#{{ feature.color }}] transition-all duration-500 group-hover:stroke-white" width="30" height="30" src="{{ site.baseurl }}/{{ feature.img }}">
+                    </div>
+                    <h4 class="text-lg font-medium text-gray-900 flex-grow">
+                        {{ feature.title }}
+                    </h4>
+                    <p class="text-sm font-normal text-gray-500 flex-grow">
+                        {{ feature.description }}
+                    </p>
+                </div>
+            {% endfor %}    
+        </div>
+    </div>
+</section>
+                                          
+<section class="py-12">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div
+            class="flex justify-center items-center gap-y-8 lg:gap-y-0 flex-wrap md:flex-wrap lg:flex-nowrap lg:flex-row lg:justify-between lg:gap-x-8 max-w-sm sm:max-w-2xl lg:max-w-full mx-auto">
+            <div class="w-full lg:w-2/5">
+                <h2 class="text-4xl font-bold text-gray-900 leading-[3.25rem] mb-8">О нас говорит <span
+                        class=" text-transparent bg-clip-text bg-gradient-to-tr from-[#d63d26] to-[#d63d26]">1С</span>
+                </h2>
+            </div>
+            <div class="w-full lg:w-3/5">
+                <div class="group bg-white border border-solid border-gray-300 rounded-2xl max-sm:max-w-sm max-sm:mx-auto p-6 transition-all duration-500">
+                    <div class="flex items-center gap-5 mb-5 sm:mb-9">
+                        <div class="grid gap-1">
+                            <h5 class="text-gray-900 font-medium transition-all duration-500  ">Виталий Никитченко</h5>
+                            <span class="text-sm leading-6 text-gray-500">Менеджер по работе с Центрами Сопровождения 1С</span>
+                        </div>
+                    </div>
+                    <p
+                        class="text-sm text-gray-500 leading-6 transition-all duration-500 min-h-24  group-hover:text-gray-800 mb-2">
+                        Данное расширение дополняет хорошо знакомые партнерам стандартные отчеты фирмы «1С» 
+                        и позволяет в режиме реального времени видеть выполнение нормативов «Сумма продаж на одного клиента», 
+                        «Объем продаж сервисов сверх тарифа», «Количество платных договоров ИТС», «Количество платных и льготных ИТС 
+                        (без ИТС ЦГУ, 1С:БО)», «Динамика прироста платных ИТС (без ЦГУ подведомственных)», 
+                        «Количество действующих абонентов 1С-Отчетности», «Среднегодовой отвал платных», «Показатель отвала за месяц», 
+                        «Среднегодовой отток платных» и «Показатель оттока за месяц» не дожидаясь обновлений 
+                        в отчетах фирмы «1С» в начале следующего месяца.
+                    </p>
+
+                    <p
+                        class="text-sm text-gray-500 leading-6 transition-all duration-500 min-h-24  group-hover:text-gray-800 mb-2">
+                        Сверка отчетов из расширения со стандартными позволяет оперативно найти причину расхождений между данными партнера и фирмы «1С», если таковые встретятся. Кроме того, в расширении есть механизм, который поможет вам рассчитать плановую сумму продаж договоров и\или сервисов для выполнения нормативов. Благодаря расширению партнеру будет проще составить план продаж и оперативно проконтролировать достижение результата.
+                    </p>
+                    <p
+                        class="text-sm text-gray-500 leading-6 transition-all duration-500 min-h-24  group-hover:text-gray-800">
+                        Отчет по непродленным договорам ИТС, встроенный в расширение, работает непосредственно с базой партнера, поэтому может сразу распределить завершающиеся договоры между клиент-менеджерами. Это значительно сокращает время сотрудников, ответственных за «нарезку» списка.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="py-12">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div
+        class="rounded-2xl flex items-center justify-between flex-col lg:flex-row"
+      >
+        <div class="block text-center mb-5 lg:text-left lg:mb-0">
+          <h2
+            class="font-manrope text-4xl font-bold mb-5 lg:mb-2"
+          >
+            Расширение доступно в магазине <span
+            class=" text-transparent bg-clip-text bg-gradient-to-tr from-[#d63d26] to-[#d63d26]">1С:Фреш</span>
+          </h2>
+          <p class="text-xl">
+            Вы можете попробовать бесплатно в течение 14 дней.
+          </p>
+        </div>
+        <a
+          href="https://1cfresh.com/a/ext/hs/extensions/install/62e75c55-4dbf-4656-892f-3afae1b00059"
+          target="blank"
+          class="flex items-center gap-2 bg-[#d63d26] rounded-full shadow-sm text-lg text-white font-semibold py-4 px-8 transition-all duration-500"
+          >Попробовать
+          <svg
+            width="19"
+            height="14"
+            viewBox="0 0 19 14"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M1.75 7L16.4167 7M11.8333 12.5L16.6852 7.64818C16.9907 7.34263 17.1435 7.18985 17.1435 7C17.1435 6.81015 16.9907 6.65737 16.6852 6.35182L11.8333 1.5"
+              stroke="#FFF"
+              stroke-width="2.4"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            />
+          </svg>
+        </a>
+      </div>
+    </div>
+</section>
+
+<footer class="w-full py-12">
+    <div class="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8">
+        <div class="max-w-3xl mx-auto">
+            <span class="text-lg text-gray-500 text-center block">© 
+                <a href="https://sorokinltd.ru">
+                    <span class=" text-transparent t bg-clip-text bg-gradient-to-tr from-[#d63d26] to-[#d63d26]">Сорокин и К</span>
+                </a> 2024, Все права защищены.</span>
+        </div>
+    </div>
+</footer>
+
+<script>
+    document.getElementById('menu-toggle').addEventListener('click', function () {
+        const navbar = document.getElementById('navbar');
+        navbar.classList.toggle('hidden');
+    });
+</script>
