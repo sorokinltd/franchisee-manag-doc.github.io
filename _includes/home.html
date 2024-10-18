@@ -3,7 +3,7 @@
       <div class="w-full flex flex-col lg:flex-row">
         <div class="flex justify-between lg:hidden px-4">
           <a href="{{ site.baseurl }}/" class="flex items-center">
-            <span class="text-2xl font-bold">УНФФ</span>
+            <span class="text-2xl font-bold">{{ site.title }}</span>
           </a>
           <button id="menu-toggle" type="button" class="inline-flex items-center p-2 ml-3 text-sm text-gray-500 rounded-lg lg:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200">
             <span class="sr-only">Открыть главное меню</span>
@@ -14,7 +14,7 @@
         </div>
         <div id="navbar" class="hidden w-full lg:flex justify-between max-lg:bg-white py-5 max-lg:mt-1 max-lg:px-4 max-lg:shadow-lg max-lg:shadow-gray-200 max-lg:h-auto max-lg:overflow-auto transition-all duration-500">
           <a href="{{ site.baseurl }}/" class="hidden lg:flex">
-            <span class="text-2xl font-bold">УНФФ</span>
+            <span class="text-2xl font-bold">{{ site.title }}</span>
           </a>
           <ul class="flex lg:items-center lg:flex-row flex-col lg:justify-end gap-4">
             {% for section in site.sections %}
