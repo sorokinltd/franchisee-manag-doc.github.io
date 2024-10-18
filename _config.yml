@@ -33,6 +33,16 @@ callouts:
   feedback:
     color: blue
 
+sections:
+  - title: Документация
+    url: _pages/docs
+  
+  - title: Ценообразование
+    url: pricing
+
+  - title: Контакты
+    url: _pages/contacts
+
 features:
   - title: Контроль за ИТС и сервисами
     description: Отслеживайте сроки окончания ИТС, сервисов и др.лицензий

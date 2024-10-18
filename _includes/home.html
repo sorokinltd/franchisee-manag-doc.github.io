@@ -17,9 +17,14 @@
             <span class="text-2xl font-bold">УНФФ</span>
           </a>
           <ul class="flex lg:items-center lg:flex-row flex-col lg:justify-end gap-4">
-            <li><a href="{{ site.baseurl }}/_pages/docs" class="text-gray-500 text-sm font-medium hover:text-prime-blue-700 transition-all duration-500 mb-2 lg:mr-6 lg:text-base">Документация</a></li>
-            <li><a href="{{ site.baseurl }}/pricing" class="text-gray-500 text-sm font-medium hover:text-prime-blue-700 transition-all duration-500 mb-2 lg:mr-6 lg:text-base">Ценообразование</a></li>
-            <li><a href="{{ site.baseurl }}/_pages/contacts" class="text-gray-500 text-sm font-medium hover:text-prime-blue-700 transition-all duration-500 mb-2 lg:mr-6 lg:text-base">Контакты</a></li>
+            {% for section in site.sections %}
+              <li>
+                <a href="{{ site.baseurl }}/{{ section.url }}" 
+                  class="text-gray-500 text-sm font-medium hover:text-prime-blue-700 transition-all duration-500 mb-2 lg:mr-6 lg:text-base">
+                  {{ section.title }}
+                </a>
+              </li>
+            {% endfor %}
           </ul>
         </div>
       </div>
