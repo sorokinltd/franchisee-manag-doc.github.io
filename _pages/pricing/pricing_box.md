@@ -1,7 +1,7 @@
 ---
 layout: default
 nav_order: 2
-title: Прайс для коробочных версий
+title: Стоимость для локальных версий УНФ
 parent: Ценообразование
 permalink: /pricing/box/
 ---
