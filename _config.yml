@@ -30,8 +30,11 @@ defaults:
         css: "assets/css/custom.css"
 
 callouts:
-  feedback:
+  note:
     color: blue
+  warning:
+    title: Важно
+    color: red
 
 sections:
   - title: Документация
