@@ -31,6 +31,7 @@ defaults:
 
 callouts:
   note:
+    title: Примечание
     color: blue
   warning:
     title: Важно
