@@ -15,6 +15,6 @@ permalink: /contacts/us
 * Email: sevan@1cmagnitka.ru
 
 Информационные каналы:
-* Web-портал проекта: https://unff.sorokinltd.ru/
-* Rutube-канал проекта: https://rutube.ru/channel/49651255/
-* Телеграм-канал проекта: https://t.me/UnffUnf
+* [Web-портал проекта] (https://unff.sorokinltd.ru/)
+* [Rutube-канал проекта] (https://rutube.ru/channel/49651255/)
+* [Телеграм-канал проекта] (https://t.me/UnffUnf)
