@@ -1,7 +1,8 @@
 ---
 layout: default
 nav_order: 3
-title: Контакты
+title: Связь
+parent: Контакты
 permalink: /contacts/
 
 ---
