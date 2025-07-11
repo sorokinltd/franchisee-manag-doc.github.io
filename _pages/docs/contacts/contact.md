@@ -1,10 +1,9 @@
 ---
 layout: default
 nav_order: 3
-title: Связь
+title: Связь с нами
 parent: Контакты
-permalink: /contacts/
-
+permalink: /contacts/us
 ---
 
 # {{ page.title }}
