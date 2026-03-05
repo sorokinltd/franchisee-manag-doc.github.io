@@ -3,14 +3,14 @@ import { TariffCalculator } from "./tariffCalculator.js";
 export class HalfYearCalculator extends TariffCalculator{
     constructor(isFresh) {
         super(isFresh);
-        this.baseRatio = 8580;
+        this.baseRatio = 9500;
     }
 
     profRatio() { 
-        return 26543;
+        return 30259;
     }
     
     korpRatio() { 
-        return 53086;
+        return 60518;
     } 
 }
